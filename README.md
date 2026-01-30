@@ -2,7 +2,7 @@
 
 ## Overview
 This repository contains a collection of projects completed during my
-internship in **Artificial Intelligence and Machine Learning (AI/ML)**.
+internship in **Artificial Intelligence and Machine Learning (AI/ML)** at **ShadowFox**.
 The projects are organized across beginner, intermediate, and advanced
 levels, focusing on data analysis, machine learning, and natural
 language processing using Python.
